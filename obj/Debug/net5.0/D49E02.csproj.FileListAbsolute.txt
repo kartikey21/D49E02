@@ -166,3 +166,4 @@ D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 49\D49E02\bin\Debug\ne
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 49\D49E02\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 49\D49E02\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 49\D49E02\obj\Debug\net5.0\Razor\Views\empList\Index.cshtml.g.cs
+D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 49\D49E02\obj\Debug\net5.0\Razor\Views\empList\ourpview.cshtml.g.cs
