@@ -44,5 +44,10 @@ namespace D49E02.Controllers
             };
             return View(empData);
         }
+            public IActionResult Ourpview()
+            {
+            return View();
+            }
+        
     }
 }
